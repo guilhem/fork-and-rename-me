@@ -7,7 +7,7 @@ description: |
   Restores your configuration on any fresh install in one command line.
 
 grade: devel
-confinement: devmode
+confinement: classic
 
 apps:
   mackup:
